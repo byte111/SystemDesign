@@ -11,3 +11,8 @@ HTTP2
 CDN
 SSE
 Forward proxy versus reverse proxy
+Redis
+Gossip protocol
+Disk IOPS 
+CDN 
+Network latency - how to minimize it ?
