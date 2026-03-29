@@ -14,5 +14,9 @@ Forward proxy versus reverse proxy
 Redis
 Gossip protocol
 Disk IOPS 
+RAID
+SSD / SATA 
 CDN 
+Transistors , Adders, Logic Gates
 Network latency - how to minimize it ?
+Log-Structured Merge-trees (LSM-trees)
