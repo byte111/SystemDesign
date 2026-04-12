@@ -20,3 +20,11 @@ CDN
 Transistors , Adders, Logic Gates
 Network latency - how to minimize it ?
 Log-Structured Merge-trees (LSM-trees)
+Elastic search 
+Gemfire
+Back of envelope calc for vrni 
+   - flows 
+   - cfgstore 
+   - number of sdms in kafka 
+   - number of sdms processed per minute by flink 
+   - elastic search storage
