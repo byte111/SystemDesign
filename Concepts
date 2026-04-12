@@ -22,6 +22,7 @@ Network latency - how to minimize it ?
 Log-Structured Merge-trees (LSM-trees)
 Elastic search 
 Gemfire
+AST - Abstract Syntax Tree - antlr
 Back of envelope calc for vrni 
    - flows 
    - cfgstore 
