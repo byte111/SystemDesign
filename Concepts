@@ -30,3 +30,13 @@ Back of envelope calc for vrni
    - number of sdms processed per minute by flink 
    - elastic search storage
 Consistent Hashing and virtual nodes 
+# CAP - Consistency Availability Network Partition
+# LSM tree - Log structured merge tree
+    - Used for high write throughput (instead of B+ tree)
+    - Memtable > SSTable > LSM via compaction
+    - In distributed setup, LSM is per node and sharding for a key should be sticky.
+# B+ Tree - Used in mysql 
+    - Lead node stores actual offset of file which contains rows
+    - Good for high read
+    - In distributed setup to achive horizontal scaling sharding is the way
+    
