@@ -39,4 +39,6 @@ Consistent Hashing and virtual nodes
     - Lead node stores actual offset of file which contains rows
     - Good for high read
     - In distributed setup to achive horizontal scaling sharding is the way
-    
+
+
+# PAXOS : A consensus algorithm
